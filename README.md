@@ -1,8 +1,7 @@
-# Hey I'm César 👋!
+[![MasterHead](/pictures/header.png)](pictures/header.png)
 
-### Software developer with focus on Machine Learning
 
-I like to build software tools that solve **real problems** and have **high impact**.
+* I like to build software tools that solve **real problems** and have **high impact**.
 
 <div align="center">
 [Email Me](mailto:cesar.capilla97@gmail.com) &nbsp;&nbsp; [Call Me](tel:+34657082231) &nbsp;&nbsp; [Download CV](path/to/cv.pdf) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/)
