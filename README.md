@@ -1,4 +1,4 @@
-[![MasterHead](/pictures/header.png)](pictures/header.png)
+<img src="pictures/header.png" alt="Header Pic" style="width: 100%;">
 
 
 * I like to build software tools that solve **real problems** and have **high impact**.
