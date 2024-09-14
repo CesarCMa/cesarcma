@@ -1,48 +1,15 @@
 <img src="pictures/header.png" alt="Header Pic" style="width: 100%;">
 
 
-* I like to build software tools that solve **real problems** and have **high impact**.
+## About me
 
-<div align="center">
-[Email Me](mailto:cesar.capilla97@gmail.com) &nbsp;&nbsp; [Call Me](tel:+34657082231) &nbsp;&nbsp; [Download CV](path/to/cv.pdf) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/)
-</div>
+- I am a **mathematics graduate** with 4+ years of experience as a data scientist.
+- Currently transitioning to Backend development because I want to focus on learning how to create scalable, maintainable software that adds value (with AI if it's really necessary 😉).
+- My greatest passion is learning new things, and I try to dedicate a large part of my time to it.
+- On my free time I like to spend time outdoors climbing and hiking 🏔️.
 
-<div align="center">
-  
-## I have collaborated with:
+You can contact me via:
 
-</div>
-
-### Latest Company Name
-
-<div align="center">
-  <img src="path/to/latest_company_logo.png" alt="Latest Company Logo">
-</div>
-
-**Role:** Your Role at Latest Company  
-**Duration:** Start Date - Present
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
----
-
-### Previous Company Name
-
-<div align="center">
-  <img src="path/to/previous_company_logo.png" alt="Previous Company Logo">
-</div>
-
-**Role:** Your Role at Previous Company  
-**Duration:** Start Date - End Date
-
----
-
-### First Company Name
-
-<div align="center">
-  <img src="path/to/first_company_logo.png" alt="First Company Logo">
-</div>
-
-**Role:** Your Role at First Company  
-**Duration:** Start Date - End Date
+- ✉️ Mail: cesar.capilla97@gmail.com
+- LinkedIn: https://www.linkedin.com/in/cesarcapillama/
 
