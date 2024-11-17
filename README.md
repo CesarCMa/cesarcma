@@ -1,12 +1,6 @@
 <img src="pictures/header.png" alt="Header Pic" style="width: 100%;">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/150px-X_icon.svg.png?20230813175046" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
+_Photo by <a href="https://unsplash.com/@heytowner?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">JOHN TOWNER</a> on <a href="https://unsplash.com/photos/aerial-photo-of-brown-moutains-JgOeRuGD_Y4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>_
 
 ## About me
 
@@ -19,4 +13,3 @@ You can contact me via:
 
 - ✉️ Mail: cesar.capilla97@gmail.com
 - LinkedIn: https://www.linkedin.com/in/cesarcapillama/
-
